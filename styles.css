@@ -1,0 +1,11 @@
+:root {
+    --cor-de-fundo: hsla(0, 98%, 50%, 0.986);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    background-color: white;
+}
